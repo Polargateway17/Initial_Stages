@@ -1,9 +1,12 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /*this is before stash*/
 
 
 /*this is after the stash */
 =======
+=======
+>>>>>>> Stashed changes
 #include <bits/stdc++.h>
 using namespace std;
 class network1 {
@@ -19,5 +22,9 @@ public:
         cout << "Calculating..." << endl;
         cout<<data1 + data2 << endl;
     }
+<<<<<<< Updated upstream
+};
+>>>>>>> Stashed changes
+=======
 };
 >>>>>>> Stashed changes
